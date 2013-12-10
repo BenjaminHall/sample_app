@@ -34,8 +34,8 @@ group :test do
 
   # Uncomment these lines on Windows.
    gem 'rb-notifu', '0.0.4'
-   gem 'win32console', '1.3.2'
-   gem 'wdm', '0.1.0'
+   gem 'term-ansicolor'
+   gem 'listen'
 end
 
 gem 'sass-rails', '4.0.1'
